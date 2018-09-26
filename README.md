@@ -1,4 +1,5 @@
-node index.js --format=xml
-node index.js --format=json
-node index.js --format=xls
-node index.js --format=csv
+`npm i`
+`node index.js --format=xml` <br />
+`node index.js --format=json` <br />
+`node index.js --format=xls` <br />
+`node index.js --format=csv` <br />
